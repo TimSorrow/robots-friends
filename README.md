@@ -6,3 +6,5 @@ https://timsorrow.github.io/robots-friends/
 Planing to add React Hooks and Redux
 
 Still planing
+
+Added new functions
