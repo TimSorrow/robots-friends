@@ -13,7 +13,8 @@ function App() {
 //            searchfield: ''
 //        }
 //    }
-
+    const [robots, setRobots] = useState([])
+    const [searchfield,setSearchfield] = useState('')
 //    componentDidMount() {
 //        fetch('https://jsonplaceholder.cypress.io/users')
 //        .then(response => response.json())
