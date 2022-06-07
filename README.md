@@ -3,8 +3,5 @@ Simple React JS app
 
 https://timsorrow.github.io/robots-friends/
 
-Planing to add React Hooks and Redux
 
-Still planing
-
-Added new functions
+Moved Redux to another build
